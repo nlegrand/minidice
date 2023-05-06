@@ -1,0 +1,1 @@
+I’m thinking about making a dice launcher in Rust.
